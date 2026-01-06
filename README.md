@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with embedded development(STM32)
 - 📫 How to reach me: HeLL0w0rLd0x@outlook.com
 
-- ⚡ Fun fact: Pia will win the 2025 championship in formula 1
+- ⚡ Fun fact: Pia will win the 2026 championship in formula 1
 
